@@ -2,9 +2,9 @@
 - 🌱 I’m a Js full stack developer (Next, Bootstarp, RestAPI, Gql API, Express, MangoDB)
 - 👀 I’m interested in Data science (Natural language Processing)
 
-- 💞️ I’m looking to collaborate on project merging web programming and data science
+- 🤝 I’m looking to collaborate on project merging web programming and data science
 - 📫 How to reach me :
-     📧 selsebilben.dev@gmail.com
+     - 📧 selsebilben.dev@gmail.com
 - 😄 Hobbies: 
     - 🥗 C🍳🥘king
     - 🤿 Diving
