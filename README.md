@@ -5,6 +5,7 @@
 - 🤝 I’m looking to collaborate on project merging web programming and data science
 - 📫 How to reach me :
      - 📧 selsebilben.dev@gmail.com
+     - 🔗 https://www.linkedin.com/in/selsebil-ben/
 - 😄 Hobbies: 
     - 🥗 C🍳🥘king
     - 🤿 Diving
