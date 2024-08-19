@@ -6,10 +6,10 @@
 - 📫 How to reach me :
      📧 selsebilben.dev@gmail.com
 - 😄 Hobbies: 
-    🥗 C🍳🥘king
-    🤿 Diving
-    📚 Reading
-    ✈️ Traveling
+    - 🥗 C🍳🥘king
+    - 🤿 Diving
+    - 📚 Reading
+    - ✈️ Traveling
     
 - ⚡ Life mindset : Die emypy ... pour out all your potential !
 
