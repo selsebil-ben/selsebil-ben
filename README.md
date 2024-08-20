@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @selsebil-ben
 - 👩🏻‍💻 I’m a full stack developer 
-- 👀 I’m interested in Data science (Natural language Processing)
+- 👀 I’m interested in web development, Knowledge graphs and Data science (Natural language Processing)
 
 - 🤝 I’m looking to collaborate on project merging web programming and data science
 - 📫 How to reach me :
@@ -9,7 +9,7 @@
 - 😄 Hobbies: 
     - 🥗 C🍳🥘king
     - 🤿 Diving
-    - 📚 Reading
+    - 📚 Reading (history, personal development, psychology, astronomy, (physics, chemistry)=>{especially in the context of space and human body reactions})
     - ✈️ Traveling
     
 - ⚡ Life mindset : Die emypy ... pour out all your potential !
