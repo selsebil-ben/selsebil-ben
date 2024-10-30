@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @selsebil-ben
-- 👩🏻‍💻 I’m a full stack developer 
+- 👩🏻‍💻 I’m a full stack developer (React, Next js, Expess js, React native, Expo, MongoDb, RESTful API)
 - 👀 I’m interested in web development, Knowledge graphs and Data science (Natural language Processing)
 
 - 🤝 I’m looking to collaborate on project merging web programming and data science
