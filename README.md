@@ -1,11 +1,11 @@
 👋 Hi, I’m @selsebil-ben
-<!--- 👩🏻‍💻 I’m a full stack developer (React, Next js, Expess js, React native, Expo, MongoDb, RESTful API) --->- 
-- I'm Phd Student at the University of Burgundy
+<!--- 👩🏻‍💻 I’m a full stack developer (React, Next js, Expess js, React native, Expo, MongoDb, RESTful API) --->
+- I'm PhD Student at the University of Burgundy
 - I’m interested in Knowledge graphs and Data science (Natural language Processing)
 <!---  -  I’m looking to collaborate on project merging web programming and data science
 - 📫 How to reach me :
      - 📧 selsebilben.dev@gmail.com
-   --->-    
+   --->    
  😄 Hobbies: 
     - 🥗 C🍳🥘king
     - 🤿 Diving
